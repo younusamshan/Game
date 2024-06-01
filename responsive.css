@@ -1,0 +1,21 @@
+@media screen and (max-width: 260px) {
+    body {
+      background-color: lightgreen;
+    }
+    .box{
+        height: 18vmin;
+        width: 18vmin;
+    }
+    #resetBtn{
+        padding: .4rem;
+        font-size: .7rem;
+        background-color: black;
+        color: white;
+    }
+    #new-btn{
+        padding: .4rem;
+        font-size: .7rem;
+        background-color: black;
+        color: white;
+    }
+  }
